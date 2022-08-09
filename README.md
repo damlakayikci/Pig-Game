@@ -9,3 +9,12 @@
   📊 Here is a flowchart for the game: 
   
 ![](pigGame/pig-game-flowchart.png)
+
+
+Here is how the game looks:
+
+![](pics/game.png)
+
+Herw is how it looks when someone wins:
+
+![](pics/game-win.png)
