@@ -6,7 +6,7 @@
   
   🥳 The first one to reach 100 wins!
 
-  📊 Here is a flowchart for the game: 
+  📊 Here is a flowchart for the game: <br />
   
 ![](pigGame/pig-game-flowchart.png)
 
